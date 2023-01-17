@@ -5,6 +5,7 @@ const settings = [
       {
         "name": "Confluence",
         "url":"https://ronwarejp.atlassian.net/wiki/spaces/~632d6ea2234d44d406d0af68/overview?homepageId=98379",
+        "img_url":"https://img.icons8.com/color/512/atlassian-confluence.png"
       },
       {
         "name": "exciroute",
@@ -22,6 +23,7 @@ const settings = [
       {
         "name": "Jira",
         "url":"https://ronwarejp.atlassian.net/jira/software/projects/EX/boards/1",
+        "img_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77c-BZfQpuobWv088KI9m3_9J1lTFrMS0U2_iWII&s"
       },
       {
         "name": "GitHub",
