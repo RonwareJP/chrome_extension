@@ -3,9 +3,19 @@ const settings = [
     "name": "技術部門",
     "items": [
       {
-        "name": "ツール1",
-        "img_url": "",
-        "url":""
+        "name": "GitHub",
+        "img_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+        "url":"https://github.com/RonwareJP"
+      },
+      {
+        "name": "GitHub",
+        "img_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+        "url":"https://github.com/RonwareJP"
+      },
+      {
+        "name": "GitHub",
+        "img_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+        "url":"https://github.com/RonwareJP"
       }
     ]
   },
@@ -13,9 +23,19 @@ const settings = [
     "name": "企画部門",
     "items": [
       {
-        "name": "ツール2",
-        "img_url": "",
-        "url":""
+        "name": "GitHub",
+        "img_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+        "url":"https://github.com/RonwareJP"
+      },
+      {
+        "name": "GitHub",
+        "img_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+        "url":"https://github.com/RonwareJP"
+      },
+      {
+        "name": "GitHub",
+        "img_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+        "url":"https://github.com/RonwareJP"
       }
     ]
   }
