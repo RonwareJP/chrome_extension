@@ -1,4 +1,4 @@
-const dataArray = async(els) => {
+const dataArray = (els) => {
   // データの表示
   let array = document.getElementById('items-list');
   els.forEach(el => {
@@ -15,10 +15,10 @@ const dataArray = async(els) => {
 
 
 
-const execute = async() => {
-  await dataArray(settings)
+const execute = () => {
+  dataArray(settings)
   document.querySelectorAll('.page-transition').forEach(
-    async (btn)=>{
+     (btn)=>{
       btn.addEventListener('click', () =>{
         chrome.tabs.create({url: btn.dataset.url}, tab => {});
       }, false);
